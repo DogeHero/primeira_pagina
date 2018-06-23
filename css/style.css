@@ -1,0 +1,35 @@
+/*!
+ * Mastertech - Portfolio Item
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+/* Inicio do meu CSS */
+#login_button{
+    border:lightgrey solid 2px;
+    border-radius: 15%;
+    background-color: grey;
+    align-content: center
+}
+#icon{
+        height: 57px;
+        width: 57px;
+}
+/* Fim do meu CSS */
+#hidden{
+    height: 0px;
+    width: 0px;
+}
